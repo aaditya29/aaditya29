@@ -18,14 +18,14 @@ My experience with the various technologies are listed in the **toolbox** below.
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Atom" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Golang" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" alt="Unix" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello" width="50" height="50"/>  
  
-
-
-
-
-
 ---
 
-<h2 align="left">Connect With Me:</h2>
+## &#x1f4c8; My GitHub Stats
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya29)](https://github.com/anuraghazra&hide=stars,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya29)](https://github.com/anuraghazra/github-readme-stats)<br> 
+
+<h3 align="left">Connect With Me On:</h3>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-adityamishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-mishra-8998ba148/)](https://www.linkedin.com/in/aditya-mishra-8998ba148/) [![Instagram Badge](https://img.shields.io/badge/-@aaditya-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=http://www.instagram.com/_._.aaditya__/)](http://www.instagram.com/_._.aaditya__/) 
