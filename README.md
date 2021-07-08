@@ -1,13 +1,25 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"> I am Aditya Mishra.
 
-This is the place where I keep my coded stuffs and learn things.<br>
+This is the place where I maintaint my coded stuffs and learn things.<br>
 <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> <br>
     
 <h2 align="left">👨🏻‍💻 About Me:</h2> 
     
-I am a Software Engineer who likes to work in microservices, machine learning, DevOps and MongoDB. <br>
+I am a Software Engineer who likes to work in Micro-Services, Machine Learning, DevOps and MongoDB. <br>
 My experience with the various technologies are listed in the **toolbox** below.<br>
+
+---
+
+#### 🧰 Toolbox
+
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="BootStrap" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Atom" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="50" height="50"/> 
+
+
+---
 
 <h2 align="left">Connect With Me:</h2>
 
