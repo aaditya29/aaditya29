@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21px"> I am Aditya Mishra.
 
-This is the place where I maintain my coded stuffs and learn things.<br>
+This is the place where I maintain my coding contents and learn things.<br>
 <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> <br>
     
