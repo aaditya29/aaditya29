@@ -1,4 +1,4 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"> I am Aditya Mishra.
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21px"> I am Aditya Mishra.
 
 This is the place where I maintain my coded stuffs and learn things.<br>
 <br>
