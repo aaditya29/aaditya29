@@ -22,7 +22,7 @@ My experience with the various technologies are listed in the **toolbox** below.
 
 ## &#x1f4c8; My GitHub Stats!
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya29&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya29&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya29)](https://github.com/anuraghazra/github-readme-stats)<br> 
 
