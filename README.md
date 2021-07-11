@@ -20,11 +20,11 @@ My little experience till now with the various technologies are listed in the **
  
 ---
 
-## &#x1f4c8; My GitHub Stats!
-
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditya29&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)<br>
+## &#x1f4c8; My GitHub Statistics!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya29)](https://github.com/anuraghazra/github-readme-stats)<br> 
+
+[![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaditya29&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaditya29&theme=graywhite&hide_border=true)](https://git.io/streak-stats)<br>
 
