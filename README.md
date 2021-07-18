@@ -28,7 +28,7 @@ My little experience till now with the various technologies are listed in the **
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaditya29&theme=graywhite&hide_border=true)](https://git.io/streak-stats)<br>
 
-<h3 align="left">Connect With Me On:</h3> <br>
+<h3 align="left">Connect With Me On:</h3>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-adityamishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-mishra-8998ba148/)](https://www.linkedin.com/in/aditya-mishra-8998ba148/) [![Instagram Badge](https://img.shields.io/badge/-@aaditya-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=http://www.instagram.com/_._.aaditya__/)](http://www.instagram.com/_._.aaditya__/) 
