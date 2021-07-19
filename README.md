@@ -24,7 +24,7 @@ My little experience till now with the various technologies are listed in the **
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya29)](https://github.com/anuraghazra/github-readme-stats)<br> 
 
-[![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaditya29&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaditya29&theme=graywhite&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaditya29&theme=graywhite&hide_border=true)](https://git.io/streak-stats)<br>
 
