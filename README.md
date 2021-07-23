@@ -6,7 +6,7 @@ This is the place where I maintain my coding contents and learn things.<br>
     
 <h2 align="left">👨🏻‍💻 About Me:</h2> 
     
-I am a Software Engineer whose areas of interest lies in Micro-Services, Machine Learning, DevOps and MongoDB. <br>
+I am a Software Engineer whose areas of interest lies in Micro-Services, Machine Learning and DevOps. <br>
 My little experience till now with the various technologies are listed in the **toolbox** below:<br>
 
 ---
