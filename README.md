@@ -1,9 +1,9 @@
-### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21px"> I am Aditya Mishra.
+### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="21px"> I am Aditya Mishra.<br>
 
 This is the place where I maintain my coding contents and learn things.<br>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> <br>
     
-<h2 align="left">👨🏻‍💻 About Me:</h2> 
+<h2 align="left">👨🏻‍💻 About Me:</h2> <br>
     
 I am a Software Engineer whose areas of interest lies in Micro-Services, Machine Learning and DevOps. <br>
 My little experience till now with the various technologies are listed in the **toolbox** below:<br>
