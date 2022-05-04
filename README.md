@@ -21,9 +21,9 @@ My little experience till now with the various technologies are listed in the **
 
 ## &#x1f4c8; My GitHub Statistics!
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/aaditya29">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaditya29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaditya29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaditya29&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
