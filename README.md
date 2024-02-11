@@ -28,9 +28,8 @@ My little experience till now with the various technologies are listed in the **
 </a>
 </p>
 
-<!--
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaditya29&theme=default&hide_border=true)](https://git.io/streak-stats)
--->
 
 <h3 align="left">Connect With Me On:</h3>
 
