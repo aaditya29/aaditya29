@@ -5,7 +5,7 @@ This is the place where I maintain my coding contents and things I learn.<br>
     
 <h2 align="left">👨🏻‍💻 About Me:</h2> <br>
     
-I am currently doing masters from IIT-Palakkad. My areas of interest lies in field of Micro-Services,Mathematics, Machine Learning, and Distributed Systems. <br>
+I am currently doing Masters in Computer Science from IIT-Palakkad. My areas of interest lies in field of Micro-Services,Mathematics, Machine Learning, and Distributed Systems. <br>
 My little experience till now with the various technologies are listed in the **toolbox** below:<br>
 
 ---
