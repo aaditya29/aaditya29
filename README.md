@@ -17,13 +17,14 @@ I am currently doing Masters in Computer Science from IIT-Palakkad. My areas of 
 </p>
 
 
+<!--
 
 <h3 align="left">Connect With Me On:</h3>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-adityamishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-mishra-8998ba148/)](https://www.linkedin.com/in/aditya-mishra-8998ba148/) [![Instagram Badge](https://img.shields.io/badge/-@aaditya-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=http://www.instagram.com/_._.aaditya__/)](http://www.instagram.com/zamaanebharkegham/)
 
-
+-->
 
 <!--
 **aaditya29/aaditya29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
